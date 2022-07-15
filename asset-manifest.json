@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shuvenduweb/static/css/main.073c9b0a.css",
+    "main.js": "/shuvenduweb/static/js/main.f7fae344.js",
+    "static/js/787.49357307.chunk.js": "/shuvenduweb/static/js/787.49357307.chunk.js",
+    "static/media/logo.svg": "/shuvenduweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shuvenduweb/index.html",
+    "main.073c9b0a.css.map": "/shuvenduweb/static/css/main.073c9b0a.css.map",
+    "main.f7fae344.js.map": "/shuvenduweb/static/js/main.f7fae344.js.map",
+    "787.49357307.chunk.js.map": "/shuvenduweb/static/js/787.49357307.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f7fae344.js"
+  ]
+}
